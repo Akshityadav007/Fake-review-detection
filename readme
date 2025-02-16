@@ -1,0 +1,6 @@
+# Introduction
+- This project is built to detect fake reviews in e-commerce platform.
+- The data is taken from Kaggle.
+- Installed libraries:
+  - Pyspark
+  - Kagglehub
