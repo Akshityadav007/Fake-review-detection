@@ -6,5 +6,4 @@ filePath = kagglehub.dataset_download("arhamrumi/amazon-product-reviews")+'/Revi
 
 # print('Path where file is present: ', filePath)
 
-df = DataLoader(filePath)
-print(type(df))
+DataLoader(filePath)
